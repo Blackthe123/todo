@@ -13,7 +13,3 @@ A simple and intuitive To-Do application built using **Tkinter** in Python. This
 - Save tasks to a file for persistence.
 - Load tasks from a file on startup.
 - Buttons + Keyboard shortcuts
-
-## Tags
-
-`#Python` `#Tkinter` `#ToDoApp` `#TaskManager` `#Productivity` `#OpenSource` `#todo-app`
